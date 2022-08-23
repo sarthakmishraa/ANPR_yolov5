@@ -1,0 +1,6 @@
+train: ../images/train
+val:  ../images/test
+test: ../images/val
+
+nc: 1
+names: ['licence']
